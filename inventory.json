@@ -1,0 +1,218 @@
+{
+  "mart": {
+    "portions": [
+      {
+        "name": "Fruits",
+        "products": [
+          {
+            "name": "Apples",
+            "items": [
+              {
+                "name": "Red Delicious",
+                "count": 118
+              },
+              {
+                "name": "Granny Smith",
+                "count": 85
+              },
+              {
+                "name": "Fuji",
+                "count": 60
+              }
+            ]
+          },
+          {
+            "name": "Bananas",
+            "items": [
+              {
+                "name": "Cavendish",
+                "count": 149
+              },
+              {
+                "name": "Plantain",
+                "count": 40
+              }
+            ]
+          },
+          {
+            "name": "Berries",
+            "items": [
+              {
+                "name": "Strawberries",
+                "count": 75
+              },
+              {
+                "name": "Blueberries",
+                "count": 50
+              },
+              {
+                "name": "Raspberries",
+                "count": 30
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Vegetables",
+        "products": [
+          {
+            "name": "Leafy Greens",
+            "items": [
+              {
+                "name": "Spinach",
+                "count": 90
+              },
+              {
+                "name": "Kale",
+                "count": 60
+              },
+              {
+                "name": "Lettuce",
+                "count": 110
+              }
+            ]
+          },
+          {
+            "name": "Root Vegetables",
+            "items": [
+              {
+                "name": "Carrots",
+                "count": 100
+              },
+              {
+                "name": "Beets",
+                "count": 40
+              },
+              {
+                "name": "Radishes",
+                "count": 55
+              }
+            ]
+          },
+          {
+            "name": "Nightshades",
+            "items": [
+              {
+                "name": "Tomatoes",
+                "count": 130
+              },
+              {
+                "name": "Eggplants",
+                "count": 45
+              },
+              {
+                "name": "Bell Peppers",
+                "count": 80
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Dairy",
+        "products": [
+          {
+            "name": "Milk",
+            "items": [
+              {
+                "name": "Whole Milk",
+                "count": 75
+              },
+              {
+                "name": "Skim Milk",
+                "count": 65
+              },
+              {
+                "name": "Almond Milk",
+                "count": 40
+              }
+            ]
+          },
+          {
+            "name": "Cheese",
+            "items": [
+              {
+                "name": "Cheddar",
+                "count": 55
+              },
+              {
+                "name": "Mozzarella",
+                "count": 45
+              },
+              {
+                "name": "Swiss",
+                "count": 35
+              }
+            ]
+          },
+          {
+            "name": "Yogurt",
+            "items": [
+              {
+                "name": "Greek Yogurt",
+                "count": 59
+              },
+              {
+                "name": "Regular Yogurt",
+                "count": 70
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Beverages",
+        "products": [
+          {
+            "name": "Juices",
+            "items": [
+              {
+                "name": "Orange Juice",
+                "count": 85
+              },
+              {
+                "name": "Apple Juice",
+                "count": 75
+              },
+              {
+                "name": "Cranberry Juice",
+                "count": 50
+              }
+            ]
+          },
+          {
+            "name": "Soda",
+            "items": [
+              {
+                "name": "Cola",
+                "count": 120
+              },
+              {
+                "name": "Lemon-Lime",
+                "count": 90
+              },
+              {
+                "name": "Ginger Ale",
+                "count": 60
+              }
+            ]
+          },
+          {
+            "name": "Water",
+            "items": [
+              {
+                "name": "Mineral Water",
+                "count": 150
+              },
+              {
+                "name": "Sparkling Water",
+                "count": 100
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
